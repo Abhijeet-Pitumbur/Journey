@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083020528988",
+    "project_id": "journey-88fb7",
+    "storage_bucket": "journey-88fb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083020528988:android:24a13fc6b681e8ce1f0599",
+        "android_client_info": {
+          "package_name": "com.example.journey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083020528988-vfp57bsgbi60tkhvs54cuq1p5d0in016.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6EfXgfmPTKRC4IQMY2Iso37ZpAy6MBZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083020528988-vfp57bsgbi60tkhvs54cuq1p5d0in016.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
